@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying computer science at JEC, Jabalpur<br>👯 I’m looking to collaborate on Web3 projects<br>🤝 I’m looking for help with Blockchain Development<br>🌱 I’m currently learning Web3<br>💬 Ask me about anything!<br>⚡ Fun fact: I am not funny 🤥
+🔭 I’m currently studying computer science at JEC, Jabalpur<br><br>👯 I’m looking to collaborate on Web3 projects<br>🤝 I’m looking for help with Blockchain Development<br>🌱 I’m currently learning Web3<br>💬 Ask me about anything!<br>⚡ Fun fact: I am not funny 🤥
 
 
 ## 🌐 Socials:
